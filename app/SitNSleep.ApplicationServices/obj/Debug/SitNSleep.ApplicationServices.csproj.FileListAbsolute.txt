@@ -1,0 +1,7 @@
+D:\dev\SitNSleep\SitNSleep\app\SitNSleep.ApplicationServices\bin\Debug\SitNSleep.ApplicationServices.dll
+D:\dev\SitNSleep\SitNSleep\app\SitNSleep.ApplicationServices\bin\Debug\SitNSleep.ApplicationServices.pdb
+D:\dev\SitNSleep\SitNSleep\app\SitNSleep.ApplicationServices\bin\Debug\SitNSleep.Core.dll
+D:\dev\SitNSleep\SitNSleep\app\SitNSleep.ApplicationServices\bin\Debug\SitNSleep.Core.pdb
+D:\dev\SitNSleep\SitNSleep\app\SitNSleep.ApplicationServices\obj\Debug\ResolveAssemblyReference.cache
+D:\dev\SitNSleep\SitNSleep\app\SitNSleep.ApplicationServices\obj\Debug\SitNSleep.ApplicationServices.dll
+D:\dev\SitNSleep\SitNSleep\app\SitNSleep.ApplicationServices\obj\Debug\SitNSleep.ApplicationServices.pdb

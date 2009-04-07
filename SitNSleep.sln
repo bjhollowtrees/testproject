@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitNSleep.Core", "app\SitNSleep.Core\SitNSleep.Core.csproj", "{C2D9C04C-2133-4043-9D94-EF09742559D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitNSleep.ApplicationServices", "app\SitNSleep.ApplicationServices\SitNSleep.ApplicationServices.csproj", "{932128E5-05FC-4300-BAA4-FD2FD4F0B2EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitNSleep.Data", "app\SitNSleep.Data\SitNSleep.Data.csproj", "{F8DA9F3F-5732-424E-8C1A-B06D225E3AF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitNSleep.Web.Controllers", "app\SitNSleep.Web.Controllers\SitNSleep.Web.Controllers.csproj", "{6401EBBA-28EF-4A51-9551-1E778438464E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitNSleep.Tests", "tests\SitNSleep.Tests\SitNSleep.Tests.csproj", "{76C838B5-5E17-4BD7-BCA4-79AF0D51779C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitNSleep.Web", "app\SitNSleep.Web\SitNSleep.Web.csproj", "{51C8E8FF-8431-468D-BE16-60E019A62C39}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Code Generation", "Code Generation", "{666A2F49-D8EB-4C25-98D5-9CC42CA9B093}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudScaffolding", "tools\CrudScaffolding\CrudScaffolding.csproj", "{5779B3AD-D5BA-48E8-B315-D7F0BB03C6BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2D9C04C-2133-4043-9D94-EF09742559D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2D9C04C-2133-4043-9D94-EF09742559D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2D9C04C-2133-4043-9D94-EF09742559D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2D9C04C-2133-4043-9D94-EF09742559D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{932128E5-05FC-4300-BAA4-FD2FD4F0B2EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{932128E5-05FC-4300-BAA4-FD2FD4F0B2EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{932128E5-05FC-4300-BAA4-FD2FD4F0B2EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{932128E5-05FC-4300-BAA4-FD2FD4F0B2EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8DA9F3F-5732-424E-8C1A-B06D225E3AF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8DA9F3F-5732-424E-8C1A-B06D225E3AF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8DA9F3F-5732-424E-8C1A-B06D225E3AF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8DA9F3F-5732-424E-8C1A-B06D225E3AF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6401EBBA-28EF-4A51-9551-1E778438464E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6401EBBA-28EF-4A51-9551-1E778438464E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6401EBBA-28EF-4A51-9551-1E778438464E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6401EBBA-28EF-4A51-9551-1E778438464E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76C838B5-5E17-4BD7-BCA4-79AF0D51779C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76C838B5-5E17-4BD7-BCA4-79AF0D51779C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76C838B5-5E17-4BD7-BCA4-79AF0D51779C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76C838B5-5E17-4BD7-BCA4-79AF0D51779C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51C8E8FF-8431-468D-BE16-60E019A62C39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51C8E8FF-8431-468D-BE16-60E019A62C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51C8E8FF-8431-468D-BE16-60E019A62C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51C8E8FF-8431-468D-BE16-60E019A62C39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5779B3AD-D5BA-48E8-B315-D7F0BB03C6BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5779B3AD-D5BA-48E8-B315-D7F0BB03C6BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5779B3AD-D5BA-48E8-B315-D7F0BB03C6BA} = {666A2F49-D8EB-4C25-98D5-9CC42CA9B093}
+	EndGlobalSection
+EndGlobal

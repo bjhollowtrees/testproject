@@ -1,91 +1,0 @@
-9
-
-dir
-427
-http://sharp-architecture.googlecode.com/svn/trunk/src/SharpArch
-http://sharp-architecture.googlecode.com/svn
-
-
-
-
-
-
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-incomplete
-
-SharpArch.Web.Castle
-dir
-
-SharpArch.Core
-dir
-
-SharpArch.Data
-dir
-
-SharpArch.Testing.NUnit
-dir
-
-SharpArch.Testing.MbUnit
-dir
-
-SharpArch.Core.NHibernateValidator
-dir
-
-SharpArch.sln
-file
-
-
-
-
-2009-04-07T21:47:44.254000Z
-480bc8a0e58eec50e962b752ab5f10d7
-2009-04-06T06:21:31.400318Z
-422
-wmccafferty
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-535d68d8-ca53-0410-8573-011026200091
-
-
-
-
-
-
-6347
-
-SharpArch.Web
-dir
-
-SharpArch.Testing
-dir
-
-SharpArch.Wcf
-dir
-
-SharpArch.VsSharpArchTemplate
-dir
-

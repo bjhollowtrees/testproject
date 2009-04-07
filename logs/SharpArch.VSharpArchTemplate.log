@@ -1,0 +1,45 @@
+4:22:45 PM	MoveCommonAssemblyInfoToRoot: Moving CommonAssemblyInfo.cs from D:\dev\SitNSleep\SitNSleep\SolutionItemsContainer\CommonAssemblyInfo.cs to root at D:\dev\SitNSleep\SitNSleep\CommonAssemblyInfo.cs
+4:22:45 PM	MoveSolutionItemsToLib: Moving solution items from D:\dev\SitNSleep\SitNSleep\SolutionItemsContainer\Solution Items to lib at D:\dev\SitNSleep\SitNSleep\lib
+4:22:47 PM	MoveSolutionItemsToToolsLib: Moving tools solution items from D:\dev\SitNSleep\SitNSleep\ToolsSolutionItemsContainer\Solution Items to tools lib at D:\dev\SitNSleep\SitNSleep\tools\lib
+4:22:49 PM	MoveProjectTo: Removing SitNSleep.Core from solution
+4:22:50 PM	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on D:\dev\SitNSleep\SitNSleep\SitNSleep.Core\SitNSleep.Core.csproj
+4:22:50 PM	MoveProjectTo: Moving SitNSleep.Core from D:\dev\SitNSleep\SitNSleep\SitNSleep.Core to target location at D:\dev\SitNSleep\SitNSleep\app\SitNSleep.Core
+4:22:50 PM	MoveProjectTo: Adding SitNSleep.Core to solution
+4:22:51 PM	CaptureProjectGuidOf: Does D:\dev\SitNSleep\SitNSleep\app\SitNSleep.Core\SitNSleep.Core.csproj exist? True
+4:22:51 PM	CaptureProjectGuidOf: About to open D:\dev\SitNSleep\SitNSleep\app\SitNSleep.Core\SitNSleep.Core.csproj
+4:22:51 PM	CaptureProjectGuidOf: Captured the GUID {C2D9C04C-2133-4043-9D94-EF09742559D6} for SitNSleep.Core
+4:22:51 PM	MoveProjectTo: Removing SitNSleep.ApplicationServices from solution
+4:22:52 PM	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on D:\dev\SitNSleep\SitNSleep\SitNSleep.ApplicationServices\SitNSleep.ApplicationServices.csproj
+4:22:52 PM	MoveProjectTo: Moving SitNSleep.ApplicationServices from D:\dev\SitNSleep\SitNSleep\SitNSleep.ApplicationServices to target location at D:\dev\SitNSleep\SitNSleep\app\SitNSleep.ApplicationServices
+4:22:52 PM	MoveProjectTo: Adding SitNSleep.ApplicationServices to solution
+4:22:53 PM	CaptureProjectGuidOf: Does D:\dev\SitNSleep\SitNSleep\app\SitNSleep.ApplicationServices\SitNSleep.ApplicationServices.csproj exist? True
+4:22:53 PM	CaptureProjectGuidOf: About to open D:\dev\SitNSleep\SitNSleep\app\SitNSleep.ApplicationServices\SitNSleep.ApplicationServices.csproj
+4:22:53 PM	CaptureProjectGuidOf: Captured the GUID {932128E5-05FC-4300-BAA4-FD2FD4F0B2EC} for SitNSleep.ApplicationServices
+4:22:54 PM	MoveProjectTo: Removing SitNSleep.Data from solution
+4:22:55 PM	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on D:\dev\SitNSleep\SitNSleep\SitNSleep.Data\SitNSleep.Data.csproj
+4:22:55 PM	MoveProjectTo: Moving SitNSleep.Data from D:\dev\SitNSleep\SitNSleep\SitNSleep.Data to target location at D:\dev\SitNSleep\SitNSleep\app\SitNSleep.Data
+4:22:55 PM	MoveProjectTo: Adding SitNSleep.Data to solution
+4:22:56 PM	CaptureProjectGuidOf: Does D:\dev\SitNSleep\SitNSleep\app\SitNSleep.Data\SitNSleep.Data.csproj exist? True
+4:22:56 PM	CaptureProjectGuidOf: About to open D:\dev\SitNSleep\SitNSleep\app\SitNSleep.Data\SitNSleep.Data.csproj
+4:22:56 PM	CaptureProjectGuidOf: Captured the GUID {F8DA9F3F-5732-424E-8C1A-B06D225E3AF7} for SitNSleep.Data
+4:22:58 PM	MoveProjectTo: Removing SitNSleep.Web.Controllers from solution
+4:22:59 PM	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on D:\dev\SitNSleep\SitNSleep\SitNSleep.Web.Controllers\SitNSleep.Web.Controllers.csproj
+4:22:59 PM	MoveProjectTo: Moving SitNSleep.Web.Controllers from D:\dev\SitNSleep\SitNSleep\SitNSleep.Web.Controllers to target location at D:\dev\SitNSleep\SitNSleep\app\SitNSleep.Web.Controllers
+4:22:59 PM	MoveProjectTo: Adding SitNSleep.Web.Controllers to solution
+4:23:00 PM	CaptureProjectGuidOf: Does D:\dev\SitNSleep\SitNSleep\app\SitNSleep.Web.Controllers\SitNSleep.Web.Controllers.csproj exist? True
+4:23:00 PM	CaptureProjectGuidOf: About to open D:\dev\SitNSleep\SitNSleep\app\SitNSleep.Web.Controllers\SitNSleep.Web.Controllers.csproj
+4:23:00 PM	CaptureProjectGuidOf: Captured the GUID {6401EBBA-28EF-4A51-9551-1E778438464E} for SitNSleep.Web.Controllers
+4:23:02 PM	MoveProjectTo: Removing SitNSleep.Tests from solution
+4:23:03 PM	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on D:\dev\SitNSleep\SitNSleep\SitNSleep.Tests\SitNSleep.Tests.csproj
+4:23:04 PM	MoveProjectTo: Moving SitNSleep.Tests from D:\dev\SitNSleep\SitNSleep\SitNSleep.Tests to target location at D:\dev\SitNSleep\SitNSleep\tests\SitNSleep.Tests
+4:23:04 PM	MoveProjectTo: Adding SitNSleep.Tests to solution
+4:23:11 PM	MoveProjectTo: Removing SitNSleep.Web from solution
+4:23:13 PM	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on D:\dev\SitNSleep\SitNSleep\SitNSleep.Web\SitNSleep.Web.csproj
+4:23:13 PM	MoveProjectTo: Moving SitNSleep.Web from D:\dev\SitNSleep\SitNSleep\SitNSleep.Web to target location at D:\dev\SitNSleep\SitNSleep\app\SitNSleep.Web
+4:23:13 PM	MoveProjectTo: Adding SitNSleep.Web to solution
+4:23:16 PM	MoveProjectTo: Removing CrudScaffolding from solution
+4:23:17 PM	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on D:\dev\SitNSleep\SitNSleep\CrudScaffolding\CrudScaffolding.csproj
+4:23:17 PM	MoveProjectTo: Moving CrudScaffolding from D:\dev\SitNSleep\SitNSleep\CrudScaffolding to target location at D:\dev\SitNSleep\SitNSleep\tools\CrudScaffolding
+4:23:18 PM	MoveProjectTo: Adding CrudScaffolding to solution folder D:\dev\SitNSleep\SitNSleep\tools\CrudScaffolding
+4:23:18 PM	ExcludeProjectFromBuildProcess: Setting build to false for project SitNSleep\tools\CrudScaffolding\CrudScaffolding.csproj within the Debug configuration
+4:23:18 PM	ExcludeProjectFromBuildProcess: Setting build to false for project SitNSleep\tools\CrudScaffolding\CrudScaffolding.csproj within the Release configuration
