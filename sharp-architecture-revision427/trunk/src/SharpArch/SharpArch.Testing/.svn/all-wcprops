@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/381/trunk/src/SharpArch/SharpArch.Testing
+END
+EntityIdSetter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/371/trunk/src/SharpArch/SharpArch.Testing/EntityIdSetter.cs
+END
+SharpArch.snk
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/247/trunk/src/SharpArch/SharpArch.Testing/SharpArch.snk
+END
+SharpArch.Testing.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/371/trunk/src/SharpArch/SharpArch.Testing/SharpArch.Testing.csproj
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/418/trunk/src/SharpArch/SharpArch.VsSharpArchTemplate/SharpArchApplicationTemplate/ToolsSolutionItemsContainer/Solution%20Items
+END
+SharpArch.Testing.dll
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/418/trunk/src/SharpArch/SharpArch.VsSharpArchTemplate/SharpArchApplicationTemplate/ToolsSolutionItemsContainer/Solution%20Items/SharpArch.Testing.dll
+END
+nunit.framework.dll
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/350/trunk/src/SharpArch/SharpArch.VsSharpArchTemplate/SharpArchApplicationTemplate/ToolsSolutionItemsContainer/Solution%20Items/nunit.framework.dll
+END
+MvcContrib.TestHelper.XML
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/382/trunk/src/SharpArch/SharpArch.VsSharpArchTemplate/SharpArchApplicationTemplate/ToolsSolutionItemsContainer/Solution%20Items/MvcContrib.TestHelper.XML
+END
+Rhino.Mocks.dll
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/179/trunk/src/SharpArch/SharpArch.VsSharpArchTemplate/SharpArchApplicationTemplate/ToolsSolutionItemsContainer/Solution%20Items/Rhino.Mocks.dll
+END
+System.Data.SQLite.DLL
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/179/trunk/src/SharpArch/SharpArch.VsSharpArchTemplate/SharpArchApplicationTemplate/ToolsSolutionItemsContainer/Solution%20Items/System.Data.SQLite.DLL
+END
+SharpArch.Testing.NUnit.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/418/trunk/src/SharpArch/SharpArch.VsSharpArchTemplate/SharpArchApplicationTemplate/ToolsSolutionItemsContainer/Solution%20Items/SharpArch.Testing.NUnit.pdb
+END
+Rhino.Mocks.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/179/trunk/src/SharpArch/SharpArch.VsSharpArchTemplate/SharpArchApplicationTemplate/ToolsSolutionItemsContainer/Solution%20Items/Rhino.Mocks.xml
+END
+SharpArch.Testing.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/418/trunk/src/SharpArch/SharpArch.VsSharpArchTemplate/SharpArchApplicationTemplate/ToolsSolutionItemsContainer/Solution%20Items/SharpArch.Testing.pdb
+END
+SharpArch.Testing.NUnit.dll
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/418/trunk/src/SharpArch/SharpArch.VsSharpArchTemplate/SharpArchApplicationTemplate/ToolsSolutionItemsContainer/Solution%20Items/SharpArch.Testing.NUnit.dll
+END
+MvcContrib.TestHelper.dll
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/418/trunk/src/SharpArch/SharpArch.VsSharpArchTemplate/SharpArchApplicationTemplate/ToolsSolutionItemsContainer/Solution%20Items/MvcContrib.TestHelper.dll
+END

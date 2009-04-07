@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/399/trunk/src/SharpArch/SharpArch.Core.NHibernateValidator/CommonValidatorAdapter
+END
+Validator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/362/trunk/src/SharpArch/SharpArch.Core.NHibernateValidator/CommonValidatorAdapter/Validator.cs
+END
+ValidationResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/399/trunk/src/SharpArch/SharpArch.Core.NHibernateValidator/CommonValidatorAdapter/ValidationResult.cs
+END

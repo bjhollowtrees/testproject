@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/381/trunk/src/SharpArch/SharpArch.Web/NHibernate
+END
+WebSessionStorage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/171/trunk/src/SharpArch/SharpArch.Web/NHibernate/WebSessionStorage.cs
+END
+TransactionAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/62/trunk/src/SharpArch/SharpArch.Web/NHibernate/TransactionAttribute.cs
+END

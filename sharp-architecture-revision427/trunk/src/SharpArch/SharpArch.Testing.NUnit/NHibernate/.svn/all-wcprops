@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/381/trunk/src/SharpArch/SharpArch.Testing.NUnit/NHibernate
+END
+RepositoryTestsBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/353/trunk/src/SharpArch/SharpArch.Testing.NUnit/NHibernate/RepositoryTestsBase.cs
+END
+RepositoryBehaviorSpecificationTestsBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/353/trunk/src/SharpArch/SharpArch.Testing.NUnit/NHibernate/RepositoryBehaviorSpecificationTestsBase.cs
+END
+DatabaseRepositoryTestsBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/353/trunk/src/SharpArch/SharpArch.Testing.NUnit/NHibernate/DatabaseRepositoryTestsBase.cs
+END
+RepositoryTestsHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/353/trunk/src/SharpArch/SharpArch.Testing.NUnit/NHibernate/RepositoryTestsHelper.cs
+END

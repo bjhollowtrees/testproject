@@ -1,0 +1,19 @@
+END
+SharpArchProject.Tests.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/418/trunk/src/SharpArch/SharpArch.VsSharpArchTemplate/SharpArchApplicationTemplate/SharpArchProject.Tests/SharpArchProject.Tests.csproj
+END
+App.config
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/418/trunk/src/SharpArch/SharpArch.VsSharpArchTemplate/SharpArchApplicationTemplate/SharpArchProject.Tests/App.config
+END
+SharpArchProject.Tests.vstemplate
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/418/trunk/src/SharpArch/SharpArch.VsSharpArchTemplate/SharpArchApplicationTemplate/SharpArchProject.Tests/SharpArchProject.Tests.vstemplate
+END

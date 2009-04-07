@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/382/trunk/src/SharpArch/SharpArch.Core
+END
+SharpArch.Core.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/370/trunk/src/SharpArch/SharpArch.Core/SharpArch.Core.csproj
+END
+SharpArch.snk
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/247/trunk/src/SharpArch/SharpArch.Core/SharpArch.snk
+END
+DesignByContract.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/15/trunk/src/SharpArch/SharpArch.Core/DesignByContract.cs
+END
+SafeServiceLocator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/322/trunk/src/SharpArch/SharpArch.Core/SafeServiceLocator.cs
+END
+Enums.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/15/trunk/src/SharpArch/SharpArch.Core/Enums.cs
+END

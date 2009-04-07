@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/381/trunk/src/SharpArch/SharpArch.Data/NHibernate/FluentNHibernate
+END
+IMapGenerator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/70/trunk/src/SharpArch/SharpArch.Data/NHibernate/FluentNHibernate/IMapGenerator.cs
+END
+IAutoPersistenceModelGenerator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/335/trunk/src/SharpArch/SharpArch.Data/NHibernate/FluentNHibernate/IAutoPersistenceModelGenerator.cs
+END
+GeneratorHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/70/trunk/src/SharpArch/SharpArch.Data/NHibernate/FluentNHibernate/GeneratorHelper.cs
+END

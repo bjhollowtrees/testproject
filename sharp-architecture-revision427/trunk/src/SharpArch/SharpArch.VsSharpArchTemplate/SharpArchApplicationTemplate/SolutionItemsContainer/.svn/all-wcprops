@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/421/trunk/src/SharpArch/SharpArch.VsSharpArchTemplate/SharpArchApplicationTemplate/SolutionItemsContainer
+END
+SolutionItemsContainer.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/418/trunk/src/SharpArch/SharpArch.VsSharpArchTemplate/SharpArchApplicationTemplate/SolutionItemsContainer/SolutionItemsContainer.csproj
+END
+SolutionItemsContainer.vstemplate
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/418/trunk/src/SharpArch/SharpArch.VsSharpArchTemplate/SharpArchApplicationTemplate/SolutionItemsContainer/SolutionItemsContainer.vstemplate
+END
+CommonAssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/382/trunk/src/SharpArch/SharpArch.VsSharpArchTemplate/SharpArchApplicationTemplate/SolutionItemsContainer/CommonAssemblyInfo.cs
+END
