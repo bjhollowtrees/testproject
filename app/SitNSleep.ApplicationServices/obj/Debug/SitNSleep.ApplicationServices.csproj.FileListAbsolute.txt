@@ -5,3 +5,10 @@ D:\dev\SitNSleep\SitNSleep\app\SitNSleep.ApplicationServices\bin\Debug\SitNSleep
 D:\dev\SitNSleep\SitNSleep\app\SitNSleep.ApplicationServices\obj\Debug\ResolveAssemblyReference.cache
 D:\dev\SitNSleep\SitNSleep\app\SitNSleep.ApplicationServices\obj\Debug\SitNSleep.ApplicationServices.dll
 D:\dev\SitNSleep\SitNSleep\app\SitNSleep.ApplicationServices\obj\Debug\SitNSleep.ApplicationServices.pdb
+C:\cygwin\home\bervin\testproject\app\SitNSleep.ApplicationServices\bin\Debug\SitNSleep.ApplicationServices.dll
+C:\cygwin\home\bervin\testproject\app\SitNSleep.ApplicationServices\bin\Debug\SitNSleep.ApplicationServices.pdb
+C:\cygwin\home\bervin\testproject\app\SitNSleep.ApplicationServices\bin\Debug\SitNSleep.Core.dll
+C:\cygwin\home\bervin\testproject\app\SitNSleep.ApplicationServices\bin\Debug\SitNSleep.Core.pdb
+C:\cygwin\home\bervin\testproject\app\SitNSleep.ApplicationServices\obj\Debug\ResolveAssemblyReference.cache
+C:\cygwin\home\bervin\testproject\app\SitNSleep.ApplicationServices\obj\Debug\SitNSleep.ApplicationServices.dll
+C:\cygwin\home\bervin\testproject\app\SitNSleep.ApplicationServices\obj\Debug\SitNSleep.ApplicationServices.pdb
